@@ -1,2 +1,1 @@
-
-![Alt text](Pylon/Parametric Pylon.jpg)
+(Parametric Pylon.jpg)
