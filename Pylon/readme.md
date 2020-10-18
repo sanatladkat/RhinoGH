@@ -1,1 +1,1 @@
-![Pylon](Parametric Pylon.jpg)
+![Pylon](Pylon/Parametric_Pylon.jpg)
